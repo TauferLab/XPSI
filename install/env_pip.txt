@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy 
+pillow
+seaborn
+matplotlib
+configparser
+tensorflow==2.0.0
+jupyter
+scikit-learn==0.23.1
+ipyfilechooser

@@ -1,0 +1,19 @@
+name: xpsi
+channels:
+  - defaults
+dependencies:
+  - python=3.7.7
+  - numpy
+  - pandas
+  - scipy 
+  - pillow
+  - seaborn
+  - pip=20.1.1
+  - matplotlib
+  - configparser
+  - tensorflow=2.0.0
+  - jupyter
+  - pip:
+    - scikit-learn==0.23.1
+    - ipyfilechooser
+prefix: /home/opt/anaconda3/envs/xpsi #Make sure to change the location of where you have anaconda3 installed (e.g., /opt/anaconda3/ or /home/anaconda3/)

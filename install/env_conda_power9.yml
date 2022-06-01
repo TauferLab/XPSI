@@ -1,0 +1,20 @@
+name: xpsi_p9
+channels:
+  - defaults
+dependencies:
+  - python=3.7.7
+  - numpy
+  - cudatoolkit=10.2
+  - pandas
+  - scipy 
+  - pillow
+  - seaborn
+  - pip=20.1.1
+  - matplotlib
+  - configparser
+  - tensorflow-gpu
+  - jupyter
+  - pip:
+    - scikit-learn==0.23.1
+    - ipyfilechooser
+prefix: /home/opt/anaconda3/envs/xpsi #Make sure to change the location of where you have anaconda3 installed (e.g., /opt/anaconda3/ or /home/anaconda3/)

@@ -1,0 +1,15 @@
+name: pd-ev
+channels:
+  - defaults
+dependencies:
+  - tensorflow=2.1.0
+  - configparser
+  - jupyter
+  - matplotlib
+  - numpy
+  - python=3.6.8
+  - pillow
+  - pip
+  - pip:
+    - sklearn
+prefix: /home/nlindqu1/anaconda3/envs/mp-dnn
