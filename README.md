@@ -107,4 +107,4 @@ Copyright (c) 2022, Global Computing Lab
 
 ANACIN-X is distributed under terms of the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0) with LLVM Exceptions.
 
-See [LICENSE](https://github.com/TauferLab/XPSI/master/LICENSE) for more details.
+See [LICENSE](https://github.com/TauferLab/XPSI/blob/main/LICENSE) for more details.
